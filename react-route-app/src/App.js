@@ -6,7 +6,6 @@ import {Users} from './components/Users';
 
 class App extends React.Component {
   state = {};
-  fetch
   render(){
   return (
       <div className="App">
